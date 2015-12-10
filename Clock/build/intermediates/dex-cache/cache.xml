@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="/Users/Gishan/Documents/University/G54MDP/Clock/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jar="C:\Users\Roller\Desktop\Android-WorldClock-And-Stopwatch-Tutorial\Clock\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/Gishan/Documents/University/G54MDP/Clock/app/build/intermediates/pre-dexed/debug/classes-632aae44b531eed3ff8c295b5c6ee6e0c8f2f07d.jar" />
+        <dex dex="C:\Users\Roller\Desktop\Android-WorldClock-And-Stopwatch-Tutorial\Clock\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-21.0.3_a4c0d1cf25f6708d1f5fb1f76948d6502ac0082f.jar" />
     </item>
     <item
-        jar="/Users/Gishan/Documents/University/G54MDP/Clock/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jar="C:\Users\Roller\Desktop\Android-WorldClock-And-Stopwatch-Tutorial\Clock\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/Gishan/Documents/University/G54MDP/Clock/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ad46dc213edfa2d327b49abee1ad3bdc464dd4be.jar" />
+        <dex dex="C:\Users\Roller\Desktop\Android-WorldClock-And-Stopwatch-Tutorial\Clock\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3_e36066bfc92837ba27dd98e457ff7ef400e676bb.jar" />
     </item>
     <item
-        jar="/Users/Gishan/Documents/University/G54MDP/Clock/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jar="C:\Users\Roller\Desktop\Android-WorldClock-And-Stopwatch-Tutorial\Clock\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/Gishan/Documents/University/G54MDP/Clock/app/build/intermediates/pre-dexed/debug/classes-8c2215038ec501d337b093a6944e34024fe83092.jar" />
+        <dex dex="C:\Users\Roller\Desktop\Android-WorldClock-And-Stopwatch-Tutorial\Clock\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-21.0.3_b0622b34603670b6754bde5a7bbef848be6093de.jar" />
     </item>
     <item
-        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jar="C:\Users\Roller\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/Gishan/Documents/University/G54MDP/Clock/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6658c117293958a7383bcbb346a57fefebf27ee4.jar" />
+        <dex dex="C:\Users\Roller\Desktop\Android-WorldClock-And-Stopwatch-Tutorial\Clock\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3_2911bb41fd93b4e29f36cab185dc8aa875f2ce98.jar" />
     </item>
 
 </items>
